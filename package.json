@@ -1,0 +1,11 @@
+{
+  "name": "veldapps-xmlgen",
+  "version": "1.0.0",
+  "description": "Contains [cavalion-c0/d3vtools]-based tooling for generating JavaScript code based upon XSD documents",
+  "main": "index.js",
+  "scripts": {
+    "test": "test.js"
+  },
+  "author": "relluf",
+  "license": "ISC"
+}
